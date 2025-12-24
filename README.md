@@ -57,7 +57,7 @@ O projeto apresenta um design moderno e focado em UI/UX com:
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a [Licença MIT]().
+Este projeto está licenciado sob a [Licença MIT](https://github.com/Rodrigopcosta/Playstation-store-concept-landing-page/blob/main/LICENSE).
 
 ## 👤 Autor
 
